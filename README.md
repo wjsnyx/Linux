@@ -8,4 +8,6 @@
   tail -f 文件名 默认动态查看指定文件的后10行内容<br>
   tail -fn 10 file 显示最后10行内容<br>
   tail -c 10 file 显示文件file的最后10个字符<br>
+
+  lsof -i:22222 根据端口号查询pid<br>
 # 常用Windows命
